@@ -24,6 +24,7 @@ export default [
       origin: [
         'http://localhost:5173',
         'http://localhost:5174',
+        'https://my-e-commers.netlify.app'   // 🔥 هذا المهم
       ],
       headers: [
         'Content-Type',
